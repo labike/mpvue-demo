@@ -2,20 +2,18 @@
 
 > A Mpvue project
 
-## Build Setup
+![mpvue-demo1](http://pc58dsa99.bkt.clouddn.com/mpvue-demo1.jpeg)
 
-``` bash
-# install dependencies
-npm install
+![mpvue-demo2](http://pc58dsa99.bkt.clouddn.com/mpvue-demo2.jpeg)
 
-# serve with hot reload at localhost:8080
-npm run dev
+![mpvue-demo3](http://pc58dsa99.bkt.clouddn.com/mpvue-demo3.jpeg)
 
-# build for production with minification
-npm run build
+![mpvue-demo4](http://pc58dsa99.bkt.clouddn.com/mpvue-demo4.jpeg)
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+![mpvue-demo5](http://pc58dsa99.bkt.clouddn.com/mpvue-demo5.jpeg)
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![mpvue-demo6](http://pc58dsa99.bkt.clouddn.com/mpvue-demo6.jpeg)
+
+![mpvue-demo7](http://pc58dsa99.bkt.clouddn.com/mpvue-demo7.jpeg)
+
+![mpvue-demo8](http://pc58dsa99.bkt.clouddn.com/mpvue-demo8.jpeg)
