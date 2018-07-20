@@ -32,7 +32,7 @@ const CONF = {
         user: 'root',
         // db: 'cAuth',
         db: 'app_micro',
-        pass: 'wxaa46e9512610cddc',
+        pass: '',
         char: 'utf8mb4'
     },
 
