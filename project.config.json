@@ -10,7 +10,7 @@
 	"miniprogramRoot": "./dist/",
 	"qcloudRoot": "./server",
 	"compileType": "miniprogram",
-	"appid": "wxaa46e9512610cddc",
+	"appid": "",
 	"projectname": "mpvue-demo",
 	"condition": {
 		"search": {
